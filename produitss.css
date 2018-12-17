@@ -1,0 +1,309 @@
+
+
+
+	
+
+}
+
+	@keyframes slidein {
+	  from {
+	    margin-left: 100%;
+	    width: 300%; 
+	  }
+
+	  75% {
+	    font-size: 300%;
+	    margin-left: 25%;
+	    width: 150%;
+	  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+.shadowbox{
+	width: 20em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 20px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+    position:center;
+    margin: 0 auto;
+    width: 400px;
+    border-radius:10px;
+
+
+}
+#marge{
+	width:80%;
+	margin-left: 10%;
+	margin-right: 10%;
+
+
+}
+.coche,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: green;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 10%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 1px 1px 2px rgba(255, 255, 255, .6),
+                inset -1px -1px 2px rgba(0, 0, 0, .6);
+}
+
+.styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.styled:active {
+    box-shadow: inset -1px -1px 2px rgba(255, 255, 255, .6),
+                inset 1px 1px 2px rgba(0, 0, 0, .6);
+}
+
+
+.banana{
+	position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 27%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.pomme{
+	position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 62%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.clementine{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 98%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.fraise{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 135%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.pasteque{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 169%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.poire{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 205%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.courgette{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 255%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.patate{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 290%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.poivron{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 327%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.epinard{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 361%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.jicama{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 397%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.houblon{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 432%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+.aji{
+    position:absolute;
+	width:10%;
+	height:20%;
+	right: 35%;
+	top: 468%;
+	display:block;
+	border:2px solid green;
+	min-width: 20px;
+	min-height: 20px;
+
+}
+
+
+
+
+h1{
+	text-align: center;
+	background-color: green;
+	color: white;
+	opacity: 0.7;
+
+}
+h2{
+	text-align: center;
+	border:1;
+	border-color: red; 
+	font-family: fantasy;
+
+
+}
+body
+{
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-color:;
+  background-repeat: no-repeat;
+  background-image:url("earthhh.png")
+ }
+ .logo{
+ 	top:80%;
+
+
+
+ }
+ footer{
+
+color: ;
+
+position:absolute;
+
+bottom:0;
+
+width:100%;
+
+padding-top:50px;
+
+height:50px;
+
+}
+.insta{
+width:3.20%;
+	height:8%;
+
+}
+.facebook{
+width:3%;
+	height:8%;
+
+}
+.twitter{
+width:3%;
+	height:8%;
+
+}
+.copy{
+
+	right:50px;
+}
+.recherche{
+	right:100px;
+
+}

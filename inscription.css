@@ -1,0 +1,60 @@
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 10px;
+    font-size: 1rem;
+    text-align: center;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 5px;
+    background-color: green;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 10%,
+                                      rgba(0, 0, 0, 0));
+   	
+}
+
+.styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+#fond{
+	display: flex;
+	flex-direction: row;
+}
+.connexion:nth-child(1)
+{
+	flex:1;
+}
+.logo:nth-child(2)
+{
+	flex:2;
+}
+.police{
+	font-family:OCR A Std, monospace;
+	color:black; 
+	font-size:20px;
+
+}
+.marge {
+margin-bottom:15px;
+
+}
+.form {
+   position:absolute;
+   top:30%;
+   left:55%;
+   width:300px; /* A toi de donner la bonne largeur */
+   height:200px; /* A toi de donner la bonne hauteur */
+   margin-left:-150px; /* -largeur/2 */
+   margin-top:-100px;
+
+   }
+.logo{
+	position:absolute;
+	top:-59px;
+	right:565px;
+}
+.rond{
+	border-radius: 5px;
+}
